@@ -83,6 +83,13 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "CRUD Full Stack com Node, React & MySQL",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/watch?v=voXTVTW73E8",
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvoXTVTW73E8&psig=AOvVaw00Ndh6nid9aMxMIIjyNXlR&ust=1685018561930000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCjrbj9jf8CFQAAAAAdAAAAABAE",
+      "id": 13
     }
   ]
 }
